@@ -1,0 +1,4 @@
+bucket  = "name_of_your_bucket"
+key = "path_to/your_terraform_state_file.tfstate"
+region  = "aws_region_name" # eu-west-1, us-east-1, ...
+encrypt = "encrypt_boolean" # true or false

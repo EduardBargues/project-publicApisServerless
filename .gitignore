@@ -1,3 +1,8 @@
+.terraform.lock.hcl
+backend.tfvars
+secrets.local.sh
+tfm.plan
+tfm.outputs.json
 # Local .terraform directories
 **/.terraform/*
 
